@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604191329142BX1QD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260419132914BX86KK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA &quot;APRENDER A APRENDER&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Verónica López Conejo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta es una SA orientada al alumnado de 1º de la ESO. Cuya temática son las técnicas de estudio, bajo el título ·Aprender a aprender&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776598134937</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo5onq82-0ea1arbw9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SA &quot;APRENDER A APRENDER&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA &quot;APRENDER A APRENDER&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA &quot;APRENDER A APRENDER&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq82-0ea1arbw9</odePageId>
+      <odeBlockId>block-mnvn41y7-41u1ghaa8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq82-0ea1arbw9</odePageId>
+          <odeBlockId>block-mnvn41y7-41u1ghaa8</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-03jic52cl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>A continuación se plantean las sesiones a realizar a lo largo de esta situación de aprendizaje sobre las técnicas de estudio.</p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>A continuación se plantean las sesiones a realizar a lo largo de esta situación de aprendizaje sobre las técnicas de estudio.</p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5onq84-xxav7vtyg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 1</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq84-xxav7vtyg</odePageId>
+      <odeBlockId>block-mnvn41y7-z2ht03ii2</odeBlockId>
+      <blockName>DESCUBRO CÓMO SE APRENDE Y SE ESTUDIA MEJOR</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq84-xxav7vtyg</odePageId>
+          <odeBlockId>block-mnvn41y7-z2ht03ii2</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-vixu05zx4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><br />En esta sesión vas a reflexionar sobre cómo se aprende, qué estrategias debes de usar para mejora tu forma de estudiar  para sacar el máximo partido a tu tiempo y esfuerzo.</p>
+<p><br /><strong> ACTIVIDAD 1</strong>:<strong> "Lluvia de ideas"</strong>.<br />En grupo, vamos a responder en la pizarra a esta pregunta:<br />  ♦ “¿Qué técnicas utilizas para estudiar y aprender mejor?”</p>
+<p>Piensa en lo que haces cuando tienes que estudiar: ¿subrayas? ¿haces esquemas? ¿repasas en voz alta?<br />¡Todas las ideas cuentan! Cuantas más compartamos, más opciones tendremos para mejorar.</p>
+<p><strong>ACTIVIDAD 2</strong>: <strong>"Visualización del video educativo".</strong><br />Ahora vamos a ver un video muy útil sobre distintas técnicas de estudio:</p>
+<p>♦ “Técnicas de estudio” (YouTube)</p>
+<p>Mientras lo ves, fíjate en:</p>
+<p>Qué técnicas ya utilizas tú.<br />Cuáles podrías probar para estudiar de forma más eficaz.<br />Después, comentaremos entre todos las ideas que más nos hayan llamado la atención.</p>
+<p><br /><strong>ACTIVIDAD 3: “¿Sabes cómo estudiar mejor?”</strong><br />A continuación verás una lista desordenada con pasos que te ayudarán a estudiar mejor.<br />♦Tu reto: <br />“Vas a crear tu propia ruta de estudio eficaz. Ordena los pasos como si estuvieras preparando un examen importante. Piensa qué harías primero, qué después… y cómo terminarías para sentirte preparado/a y tranquilo/a.”</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><br />En esta sesión vas a reflexionar sobre cómo se aprende, qué estrategias debes de usar para mejora tu forma de estudiar  para sacar el máximo partido a tu tiempo y esfuerzo.</p>\n<p><br /><strong> ACTIVIDAD 1</strong>:<strong> \"Lluvia de ideas\"</strong>.<br />En grupo, vamos a responder en la pizarra a esta pregunta:<br />  ♦ “¿Qué técnicas utilizas para estudiar y aprender mejor?”</p>\n<p>Piensa en lo que haces cuando tienes que estudiar: ¿subrayas? ¿haces esquemas? ¿repasas en voz alta?<br />¡Todas las ideas cuentan! Cuantas más compartamos, más opciones tendremos para mejorar.</p>\n<p><strong>ACTIVIDAD 2</strong>: <strong>\"Visualización del video educativo\".</strong><br />Ahora vamos a ver un video muy útil sobre distintas técnicas de estudio:</p>\n<p>♦ “Técnicas de estudio” (YouTube)</p>\n<p>Mientras lo ves, fíjate en:</p>\n<p>Qué técnicas ya utilizas tú.<br />Cuáles podrías probar para estudiar de forma más eficaz.<br />Después, comentaremos entre todos las ideas que más nos hayan llamado la atención.</p>\n<p><br /><strong>ACTIVIDAD 3: “¿Sabes cómo estudiar mejor?”</strong><br />A continuación verás una lista desordenada con pasos que te ayudarán a estudiar mejor.<br />♦Tu reto: <br />“Vas a crear tu propia ruta de estudio eficaz. Ordena los pasos como si estuvieras preparando un examen importante. Piensa qué harías primero, qué después… y cómo terminarías para sentirte preparado/a y tranquilo/a.”</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5onq84-xxav7vtyg</odePageId>
+      <odeBlockId>block-mnvn41y7-x7qoalt5y</odeBlockId>
+      <blockName>Lista desordenada ¿Sabes cómo estudiar mejor?</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq84-xxav7vtyg</odePageId>
+          <odeBlockId>block-mnvn41y7-x7qoalt5y</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-x8e17zica</odeIdeviceId>
+          <odeIdeviceTypeName>scrambled-list</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-sortableList"><div class="exe-sortableList-instructions"><p>A continuación tienes una lista desordenada de pasos que ayudan a estudiar de forma eficaz.<br />Ordena las acciones del 1 al 8 según el orden más lógico para preparar y realizar un estudio completo.</p></div><ul class="exe-sortableList-list"><li>Fíjate un objetivo claro: qué necesitas aprender</li><li>Planifica tu tiempo y organiza el material</li><li>Lee con atención y comprende lo que vas a estudiar</li><li>Subraya y haz un resumen con tus palabras</li><li>Haz esquemas o mapas conceptuales para visualizar las ideas</li><li>Hazte preguntas para comprobar si lo entiendes</li><li>Descansa y repasa lo aprendido en intervalos de tiempo</li><li>Revisa tus apuntes o ejercicios el día antes del examen</li></ul><div style="display:none"><p class="exe-sortableList-buttonText">Comprobar</p><p class="exe-sortableList-rightText">¡Correcto!</p><div class="exe-sortableList-ideviceID js-hidden">2025119202021-60</div><div class="exe-sortableList-evaluationID js-hidden"></div><div class="exe-sortableList-evaluationMessages js-hidden">Actividad no completada#Actividad superada. Puntuación: %s#Actividad no superada. Puntuación: %s#Lista desordenada</div><p class="exe-sortableList-wrongText">No es correcto... Respuesta correcta:</p></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5onq85-b29godu93</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 2</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq85-b29godu93</odePageId>
+      <odeBlockId>block-mnvn41y7-qadpdouyi</odeBlockId>
+      <blockName>CREA TU INFOGRAFÍA: TÉCNICAS DE ESTUDIO EFICACES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq85-b29godu93</odePageId>
+          <odeBlockId>block-mnvn41y7-qadpdouyi</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-niq4wgufd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />Vas a crear una infografía digital interactiva para mostrar de forma visual y atractiva las mejores técnicas de estudio.<br />El reto es transformar lo que aprendiste en la sesión anterior (subrayado, resumen, esquemas, planificación, descanso, repaso…) en una presentación clara, creativa y útil para tus compañeros.</p>
+<p><br /><strong> 1. ¿Qué vas a hacer?</strong><br />Vas a convertirte en diseñador/a educativo/a por un día.<br />Tu misión es crear una infografía en formato digital (por ejemplo, con Canva u otra herramienta parecida) donde expliques, con tus propias palabras y tu estilo, las técnicas de estudio más eficaces.</p>
+<p>2. ¿<strong>Cómo vas a trabajar?</strong><br />Trabajarás en grupo, combinando ideas y estilos.<br />Cada grupo elegirá las técnicas que quiera destacar.<br />Incluirás imágenes, iconos y breves explicaciones para que cualquier persona pueda entenderlas de un vistazo.<br />Cuida el diseño visual: usa colores, formas y tipografías que ayuden a transmitir la información de manera clara y atractiva.<br /><br /><strong>3. Paso a paso</strong><br />Reúne las ideas: revisa las técnicas que el grupo descubrió en la sesión anterior.<br />Elige las más útiles (por ejemplo: subrayar, resumir, hacer esquemas, planificar el tiempo, descansar, repasar…).<br />Decide el diseño de tu infografía: ¿horizontal o vertical? ¿colorida o minimalista?<br />Crea los apartados: añade un título, una breve explicación y un icono o imagen para cada técnica.<br />Hazla interactiva: puedes añadir enlaces, animaciones o códigos QR con ejemplos o vídeos.<br />Revisa el resultado final: asegúrate de que sea claro, equilibrado y visualmente atractivo.<br /><br /><strong>4. Producto final</strong><br />Tu infografía servirá para ayudar a otros compañeros a mejorar su forma de estudiar.<br />Cuando la termines, podrás compartirla con el grupo o con otros cursos. ¡Tu trabajo puede inspirar a más personas a aprender mejor!</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnvn41y7-niq4wgufd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />Vas a crear una infografía digital interactiva para mostrar de forma visual y atractiva las mejores técnicas de estudio.<br />El reto es transformar lo que aprendiste en la sesión anterior (subrayado, resumen, esquemas, planificación, descanso, repaso…) en una presentación clara, creativa y útil para tus compañeros.</p>\n<p><br /><strong> 1. ¿Qué vas a hacer?</strong><br />Vas a convertirte en diseñador/a educativo/a por un día.<br />Tu misión es crear una infografía en formato digital (por ejemplo, con Canva u otra herramienta parecida) donde expliques, con tus propias palabras y tu estilo, las técnicas de estudio más eficaces.</p>\n<p>2. ¿<strong>Cómo vas a trabajar?</strong><br />Trabajarás en grupo, combinando ideas y estilos.<br />Cada grupo elegirá las técnicas que quiera destacar.<br />Incluirás imágenes, iconos y breves explicaciones para que cualquier persona pueda entenderlas de un vistazo.<br />Cuida el diseño visual: usa colores, formas y tipografías que ayuden a transmitir la información de manera clara y atractiva.<br /><br /><strong>3. Paso a paso</strong><br />Reúne las ideas: revisa las técnicas que el grupo descubrió en la sesión anterior.<br />Elige las más útiles (por ejemplo: subrayar, resumir, hacer esquemas, planificar el tiempo, descansar, repasar…).<br />Decide el diseño de tu infografía: ¿horizontal o vertical? ¿colorida o minimalista?<br />Crea los apartados: añade un título, una breve explicación y un icono o imagen para cada técnica.<br />Hazla interactiva: puedes añadir enlaces, animaciones o códigos QR con ejemplos o vídeos.<br />Revisa el resultado final: asegúrate de que sea claro, equilibrado y visualmente atractivo.<br /><br /><strong>4. Producto final</strong><br />Tu infografía servirá para ayudar a otros compañeros a mejorar su forma de estudiar.<br />Cuando la termines, podrás compartirla con el grupo o con otros cursos. ¡Tu trabajo puede inspirar a más personas a aprender mejor!</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5onq85-1psl5sw7l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 3</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq85-1psl5sw7l</odePageId>
+      <odeBlockId>block-mnvn41y7-svm7evhvo</odeBlockId>
+      <blockName>CREA TU MURAL COOPERATIVO: RECORDAR Y ORGANIZAR</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq85-1psl5sw7l</odePageId>
+          <odeBlockId>block-mnvn41y7-svm7evhvo</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-ew65e1a3q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><br />Vas a trabajar en equipo para crear un mural cooperativo que muestre ideas, trucos y consejos sobre cómo mejorar la memoria, la concentración y la organización del tiempo.<br />El objetivo es aprender haciendo, expresando lo que sabes de una forma visual, creativa y motivadora.</p>
+<p><strong>1. ¿Qué vas a hacer?</strong><br />Vas a diseñar un mural físico (en cartulina ) que quedará expuesto en el aula.<br />Será una oportunidad para compartir tus ideas con los demás y reforzar lo aprendido sobre las técnicas de estudio.</p>
+<p>Imagina que tu mural puede inspirar a otros compañeros a estudiar mejor.<br />¡Ese es tu reto! </p>
+<p><strong>2. Cómo vas a trabajar</strong><br />Formarás parte de un grupo cooperativo y diverso, donde cada persona aportará sus ideas y habilidades.<br />Juntos decidiréis el tema central del mural: puede ser la memoria, la concentración o la organización del tiempo.<br />Cada grupo incluirá en su mural:<br />♦ Títulos llamativos<br />♦Esquemas o dibujos claros<br />♦Ejemplos visuales (gráficos, iconos, imágenes)<br />♦Mensajes motivadores que inspiren a estudiar mejor<br /><br /><strong>3. Paso a paso</strong><br />- Elige el tema principal: ¿qué quieres destacar —cómo recordar mejor, cómo concentrarte o cómo organizarte?<br />- Haz una lluvia de ideas con tu grupo sobre qué consejos o técnicas incluir.<br />- Diseña el boceto: decide cómo se verá tu mural (colores, secciones, títulos, imágenes).<br />- Crea el mural con materiales físicos: cartulinas, recortes, dibujos, revistas, marcadores, etc.<br />- Presenta tu mural al resto de la clase: explica qué habéis querido transmitir y por qué lo habéis diseñado así.<br /><br /><strong>4. Producto final</strong><br />Tu mural quedará expuesto en el aula como un recordatorio visual de todo lo que habéis aprendido sobre estudiar con inteligencia y equilibrio.<br />Será una muestra de creatividad, trabajo en equipo y aprendizaje compartido.</p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><br />Vas a trabajar en equipo para crear un mural cooperativo que muestre ideas, trucos y consejos sobre cómo mejorar la memoria, la concentración y la organización del tiempo.<br />El objetivo es aprender haciendo, expresando lo que sabes de una forma visual, creativa y motivadora.</p>\n<p><strong>1. ¿Qué vas a hacer?</strong><br />Vas a diseñar un mural físico (en cartulina ) que quedará expuesto en el aula.<br />Será una oportunidad para compartir tus ideas con los demás y reforzar lo aprendido sobre las técnicas de estudio.</p>\n<p>Imagina que tu mural puede inspirar a otros compañeros a estudiar mejor.<br />¡Ese es tu reto! </p>\n<p><strong>2. Cómo vas a trabajar</strong><br />Formarás parte de un grupo cooperativo y diverso, donde cada persona aportará sus ideas y habilidades.<br />Juntos decidiréis el tema central del mural: puede ser la memoria, la concentración o la organización del tiempo.<br />Cada grupo incluirá en su mural:<br />♦ Títulos llamativos<br />♦Esquemas o dibujos claros<br />♦Ejemplos visuales (gráficos, iconos, imágenes)<br />♦Mensajes motivadores que inspiren a estudiar mejor<br /><br /><strong>3. Paso a paso</strong><br />- Elige el tema principal: ¿qué quieres destacar —cómo recordar mejor, cómo concentrarte o cómo organizarte?<br />- Haz una lluvia de ideas con tu grupo sobre qué consejos o técnicas incluir.<br />- Diseña el boceto: decide cómo se verá tu mural (colores, secciones, títulos, imágenes).<br />- Crea el mural con materiales físicos: cartulinas, recortes, dibujos, revistas, marcadores, etc.<br />- Presenta tu mural al resto de la clase: explica qué habéis querido transmitir y por qué lo habéis diseñado así.<br /><br /><strong>4. Producto final</strong><br />Tu mural quedará expuesto en el aula como un recordatorio visual de todo lo que habéis aprendido sobre estudiar con inteligencia y equilibrio.<br />Será una muestra de creatividad, trabajo en equipo y aprendizaje compartido.</p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5onq86-yih8sivm3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 4 Y 5</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4 Y 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4 Y 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq86-yih8sivm3</odePageId>
+      <odeBlockId>block-mnvn41y7-3c4zwktxc</odeBlockId>
+      <blockName>CREA TU PODCAST: TÉCNICAS DE ESTUDIO EN ACCIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq86-yih8sivm3</odePageId>
+          <odeBlockId>block-mnvn41y7-3c4zwktxc</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-60xj6nftw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />Vas a crear tu propio podcast educativo, desde la idea inicial hasta la grabación final.<br />En este proyecto pondrás en práctica todo lo aprendido sobre técnicas de estudio, memoria, concentración y organización del tiempo, expresándote de forma creativa y profesional.<br />Tu objetivo será comunicar, inspirar y compartir con otros compañeros cómo aprender mejor.</p>
+<p><br /> <strong>FASE 1: Prepara tu guion</strong><br /><br />Vas a convertirte en guionista y locutor/a de un podcast educativo.<br />En esta primera parte, crearás el guion del programa, donde contarás —con tus propias palabras— lo que has descubierto sobre cómo estudiar mejor.</p>
+<p>♦ <span style="text-decoration: underline;"><strong>Pasos para crear tu guion</strong></span><br />- Forma tu equipo (2 a 4 personas).<br />- Elige el enfoque del podcast: entrevista, diálogo, debate o charla entre amigos.<br />- Piensa un título atractivo (por ejemplo: “Aprendo a mi ritmo”, “Tips para no olvidar” o “Estudio sin estrés”).<br />- Organiza la estructura del guion:</p>
+<p>              1.  Inicio: presentación del grupo y tema.<br />               2. Desarrollo: conversación con preguntas y respuestas como:</p>
+<p>                            “¿Cuál es la técnica de estudio que mejor te funciona?”<br />                            “¿Qué aprendiste al hacer la infografía o el mural?”<br />                             “¿Qué consejo darías para mejorar la concentración?”<br />- Cierre motivador: una reflexión o frase inspiradora para terminar.<br />- Revisa y ensaya tu guion: practica la entonación, el ritmo y la pronunciación.<br />- Recuerda: tu voz es la protagonista, ¡hazla sonar natural y segura!</p>
+<p> Apoyo visual interactivo<br />Para ayudarte en este proceso, tendrás un tutorial paso a paso de la aplicación AUDACITY.</p>
+<p><span style="text-decoration: underline;"><strong>FASE 2: Graba y edita tu podcast</strong></span></p>
+<p>Ahora llega el momento de dar vida a tu guion.<br />Vas a grabar y editar tu podcast utilizando Audacity, una herramienta sencilla y potente para crear audios de calidad profesional.</p>
+<p><br /></p>
+<p><a href="https://drive.google.com/file/d/1gfTpEy_E6joPC1UbH-gkUohAqxKbLlRm/view?usp=sharing" title="">TUTORIAL AUDACITY</a><br />♦ <strong><span style="text-decoration: underline;">Pasos para grabar y editar:</span></strong><br />- Ensaya antes de grabar: repasa el guion y ajusta el tono y el ritmo.<br />- Graba tu podcast en Audacity:</p>
+<p>                Habla con claridad y entusiasmo.<br />                Evita ruidos de fondo.<br />                 Puedes añadir efectos o música suave de fondo (sin derechos de autor).<br />- Edita tu audio:</p>
+<p>                 Recorta silencios o errores.<br />                 Ajusta el volumen.<br />                 Añade una introducción o cierre musical si lo deseas.<br />  - Revisa el resultado final: escucha el podcast completo y asegúrate de que suena natural y fluido.<br />- Guarda y comparte tu trabajo:</p>
+<p>- Sube el audio a la página web o aula virtual del centro.<br />       Acompáñalo de una breve descripción o frase promocional, por ejemplo:</p>
+<p>         “Descubre cómo organizamos nuestro estudio para aprender mejor.”<br /><br /><span style="text-decoration: underline;"><strong>Producto final</strong></span><br />Tu podcast será un reflejo de todo lo que has aprendido sobre cómo estudiar mejor y comunicarlo con creatividad.<br />Será un contenido que otros alumnos podrán escuchar y disfrutar, ayudándoles a descubrir nuevas formas de aprender.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnvn41y7-60xj6nftw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />Vas a crear tu propio podcast educativo, desde la idea inicial hasta la grabación final.<br />En este proyecto pondrás en práctica todo lo aprendido sobre técnicas de estudio, memoria, concentración y organización del tiempo, expresándote de forma creativa y profesional.<br />Tu objetivo será comunicar, inspirar y compartir con otros compañeros cómo aprender mejor.</p>\n<p><br /> <strong>FASE 1: Prepara tu guion</strong><br /><br />Vas a convertirte en guionista y locutor/a de un podcast educativo.<br />En esta primera parte, crearás el guion del programa, donde contarás —con tus propias palabras— lo que has descubierto sobre cómo estudiar mejor.</p>\n<p>♦ <span style=\"text-decoration: underline;\"><strong>Pasos para crear tu guion</strong></span><br />- Forma tu equipo (2 a 4 personas).<br />- Elige el enfoque del podcast: entrevista, diálogo, debate o charla entre amigos.<br />- Piensa un título atractivo (por ejemplo: “Aprendo a mi ritmo”, “Tips para no olvidar” o “Estudio sin estrés”).<br />- Organiza la estructura del guion:</p>\n<p>              1.  Inicio: presentación del grupo y tema.<br />               2. Desarrollo: conversación con preguntas y respuestas como:</p>\n<p>                            “¿Cuál es la técnica de estudio que mejor te funciona?”<br />                            “¿Qué aprendiste al hacer la infografía o el mural?”<br />                             “¿Qué consejo darías para mejorar la concentración?”<br />- Cierre motivador: una reflexión o frase inspiradora para terminar.<br />- Revisa y ensaya tu guion: practica la entonación, el ritmo y la pronunciación.<br />- Recuerda: tu voz es la protagonista, ¡hazla sonar natural y segura!</p>\n<p> Apoyo visual interactivo<br />Para ayudarte en este proceso, tendrás un tutorial paso a paso de la aplicación AUDACITY.</p>\n<p><span style=\"text-decoration: underline;\"><strong>FASE 2: Graba y edita tu podcast</strong></span></p>\n<p>Ahora llega el momento de dar vida a tu guion.<br />Vas a grabar y editar tu podcast utilizando Audacity, una herramienta sencilla y potente para crear audios de calidad profesional.</p>\n<p><br /></p>\n<p><a href=\"https://drive.google.com/file/d/1gfTpEy_E6joPC1UbH-gkUohAqxKbLlRm/view?usp=sharing\" title=\"\">TUTORIAL AUDACITY</a><br />♦ <strong><span style=\"text-decoration: underline;\">Pasos para grabar y editar:</span></strong><br />- Ensaya antes de grabar: repasa el guion y ajusta el tono y el ritmo.<br />- Graba tu podcast en Audacity:</p>\n<p>                Habla con claridad y entusiasmo.<br />                Evita ruidos de fondo.<br />                 Puedes añadir efectos o música suave de fondo (sin derechos de autor).<br />- Edita tu audio:</p>\n<p>                 Recorta silencios o errores.<br />                 Ajusta el volumen.<br />                 Añade una introducción o cierre musical si lo deseas.<br />  - Revisa el resultado final: escucha el podcast completo y asegúrate de que suena natural y fluido.<br />- Guarda y comparte tu trabajo:</p>\n<p>- Sube el audio a la página web o aula virtual del centro.<br />       Acompáñalo de una breve descripción o frase promocional, por ejemplo:</p>\n<p>         “Descubre cómo organizamos nuestro estudio para aprender mejor.”<br /><br /><span style=\"text-decoration: underline;\"><strong>Producto final</strong></span><br />Tu podcast será un reflejo de todo lo que has aprendido sobre cómo estudiar mejor y comunicarlo con creatividad.<br />Será un contenido que otros alumnos podrán escuchar y disfrutar, ayudándoles a descubrir nuevas formas de aprender.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5onq86-8d0uq4wwc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 6</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq86-8d0uq4wwc</odePageId>
+      <odeBlockId>block-mnvn41y7-z6ojh3smk</odeBlockId>
+      <blockName>¡LO QUE HEMOS APRENDIDO!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq86-8d0uq4wwc</odePageId>
+          <odeBlockId>block-mnvn41y7-z6ojh3smk</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-cjv9lay5c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><br />Vas a celebrar todo lo que has aprendido sobre técnicas de estudio, memoria y organización a lo largo de este proyecto.<br />Será una sesión especial para repasar, jugar, valorar tu trabajo y reconocer los avances que has conseguido, tanto individualmente como en grupo.</p>
+<p><span style="text-decoration: underline;"><strong>1. Juego: “Adivina la técnica de estudio”</strong></span><br />¡Es hora de poner a prueba tus conocimientos de una forma divertida!</p>
+<p>Vas a participar en el juego “Adivina la técnica de estudio”, creado en eXeLearning.<br />Escucha o lee cada pista con atención y trata de adivinar qué técnica se está describiendo.<br />Jugarás en grupo, colaborando para sumar puntos y demostrar cuánto sabes. Aprender también puede ser un juego, y hoy vas a comprobarlo.</p>
+<p><br /><span style="text-decoration: underline;"><strong>2. Autoevaluación y coevaluación</strong></span><br />Después del juego, vas a reflexionar sobre tu propio aprendizaje.<br />¿Qué has descubierto sobre ti como estudiante? ¿Qué técnica te funciona mejor? ¿Qué podrías mejorar?</p>
+<p>Realizarás una autoevaluación y coevaluación guiada, utilizando las rúbricas y listas de cotejo que encontrarás en el REA (Recurso Educativo Abierto).<br />Estas herramientas te ayudarán a mirar atrás y valorar:</p>
+<p>- Tu participación y esfuerzo durante el proyecto.<br />- Tu colaboración con el grupo.<br />- La calidad y creatividad de tus productos (infografía, mural, podcast…).<br />- Cómo ha mejorado tu forma de estudiar y organizarte.<br /><strong><em>Recuerda: la evaluación no es un examen, sino una oportunidad para reconocerte y seguir creciendo. </em></strong></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><br />Vas a celebrar todo lo que has aprendido sobre técnicas de estudio, memoria y organización a lo largo de este proyecto.<br />Será una sesión especial para repasar, jugar, valorar tu trabajo y reconocer los avances que has conseguido, tanto individualmente como en grupo.</p>\n<p><span style=\"text-decoration: underline;\"><strong>1. Juego: “Adivina la técnica de estudio”</strong></span><br />¡Es hora de poner a prueba tus conocimientos de una forma divertida!</p>\n<p>Vas a participar en el juego “Adivina la técnica de estudio”, creado en eXeLearning.<br />Escucha o lee cada pista con atención y trata de adivinar qué técnica se está describiendo.<br />Jugarás en grupo, colaborando para sumar puntos y demostrar cuánto sabes. Aprender también puede ser un juego, y hoy vas a comprobarlo.</p>\n<p><br /><span style=\"text-decoration: underline;\"><strong>2. Autoevaluación y coevaluación</strong></span><br />Después del juego, vas a reflexionar sobre tu propio aprendizaje.<br />¿Qué has descubierto sobre ti como estudiante? ¿Qué técnica te funciona mejor? ¿Qué podrías mejorar?</p>\n<p>Realizarás una autoevaluación y coevaluación guiada, utilizando las rúbricas y listas de cotejo que encontrarás en el REA (Recurso Educativo Abierto).<br />Estas herramientas te ayudarán a mirar atrás y valorar:</p>\n<p>- Tu participación y esfuerzo durante el proyecto.<br />- Tu colaboración con el grupo.<br />- La calidad y creatividad de tus productos (infografía, mural, podcast…).<br />- Cómo ha mejorado tu forma de estudiar y organizarte.<br /><strong><em>Recuerda: la evaluación no es un examen, sino una oportunidad para reconocerte y seguir creciendo. </em></strong></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5onq86-8d0uq4wwc</odePageId>
+      <odeBlockId>block-mnvn41y7-oz2kvyxy3</odeBlockId>
+      <blockName>Adivina LA TÉCNICA DE ESTUDIO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq86-8d0uq4wwc</odePageId>
+          <odeBlockId>block-mnvn41y7-oz2kvyxy3</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-o1sizjazw</odeIdeviceId>
+          <odeIdeviceTypeName>guess</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="adivina-IDevice"><div class="adivina-version js-hidden">2</div><div class="adivina-feedback-game"></div><div class="adivina-instructions gameQP-instructions"><p>Observe las letras, identifique y rellene las palabras que faltan.</p></div><div class="adivina-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D3%F6%FB%E4%FB%FC%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DD%F0%E1%F7%E0%E4%F7%B2%FE%F3%E1%B2%FE%F7%E6%E0%F3%E1%BE%B2%FB%F6%F7%FC%E6%FB%F4%FB%E3%E7%F7%B2%EB%B2%E0%F7%FE%FE%F7%FC%F7%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%E6%FB%FF%F7%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%A1%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A2%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%C7%D0%C0%D3%CB%D3%D6%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%FB%E0%E4%F7%B2%E2%F3%E0%F3%B2%E0%F7%E1%F3%FE%E6%F3%E0%B2%FE%F3%E1%B2%FB%F6%F7%F3%E1%B2%FFs%E1%B2%FB%FF%E2%FD%E0%E6%F3%FC%E6%F7%E1%B2%F6%F7%B2%E7%FC%B2%E6%F7%EA%E6%FD%B2%EB%B2%F3%EB%E7%F6%F3%B2%F3%B2%F1%FD%FC%F1%F7%FC%E6%E0%F3%E0%E6%F7%B2%FF%FB%F7%FC%E6%E0%F3%E1%B2%FE%F7%F7%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C0%D7%C1%C7%DF%D7%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E1%FB%E1%E6%F7%B2%F7%FC%B2%F7%E1%F1%E0%FB%F0%FB%E0%B2%F1%FD%FC%B2%E6%E7%E1%B2%E2%E0%FD%E2%FB%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%FE%FD%B2%FFs%E1%B2%FB%FF%E2%FD%E0%E6%F3%FC%E6%F7%B2%F6%F7%B2%E7%FC%B2%E6%F7%EA%E6%FD%BC%B2%C6%F7%B2%F3%EB%E7%F6%F3%B2%F3%B2%F1%FD%FF%E2%E0%F7%FC%F6%F7%E0%B2%FF%F7%F8%FD%E0%B2%FE%FD%B2%E3%E7%F7%B2%FA%F3%E1%B2%FE%F7%7F%F6%FD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D7%C1%C3%C7%D7%DF%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E6%F3%B2%E6%7B%F1%FC%FB%F1%F3%B2%E1%F7%B2%F0%F3%E1%F3%B2%F7%FC%B2%FD%E0%F5%F3%FC%FB%E8%F3%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%FF%F7%F6%FB%F3%FC%E6%F7%E1%B2%F4%FE%F7%F1%FA%F3%E1%BE%B2%F1%FD%FE%FD%E0%F7%E1%B2%FD%B2%F8%F7%E0%F3%E0%E3%E7%7F%F3%E1%BC%B2%C1%F7%B2%E7%E1%F3%B2%FF%E7%F1%FA%FD%B2%E2%F3%E0%F3%B2%E0%F7%E2%F3%E1%F3%E0%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%E7%FC%B2%F7%EA%F3%FF%F7%FC%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%D3%C2%D3%B2%DF%D7%DC%C6%D3%DE%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%B2%E7%FC%B2%E6%FB%E2%FD%B2%F6%F7%B2%FF%F3%E2%F3%B2%E4%FB%E1%E7%F3%FE%B2%F1%FD%FC%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%F1%FE%F3%E4%F7%BE%B2%F6%FB%F0%E7%F8%FD%E1%B2%EB%B2%F1%FD%FC%F7%EA%FB%FD%FC%F7%E1%B2%E3%E7%F7%B2%E0%F7%E2%E0%F7%E1%F7%FC%E6%F3%B2%FB%F6%F7%F3%E1%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F1%E0%F7%F3%E6%FB%E4%F3%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C0%D7%D5%DE%D3%B2%DF%DC%D7%DF%DD%C6%5B%D1%DC%DB%D1%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%FB%E0%E4%F7%B2%E2%F3%E0%F3%B2%FF%F7%FF%FD%E0%FB%E8%F3%E0%B2%F1%FD%FC%E6%F7%FC%FB%F6%FD%E1%B2%E7%E1%F3%FC%F6%FD%B2%E6%E0%E7%F1%FD%E1%BE%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%FD%B2%F4%E0%F3%E1%F7%E1%B2%E3%E7%F7%B2%E6%F7%B2%F3%EB%E7%F6%F3%FC%B2%F3%B2%E0%F7%F1%FD%E0%F6%F3%E0%B2%F4s%F1%FB%FE%FF%F7%FC%E6%F7%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%5B%C6%DD%D6%DD%B2%C2%DD%DF%DD%D6%DD%C0%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DB%FF%E2%FE%FB%F1%F3%B2%F6%FB%E1%E6%E0%FB%F0%E7%FB%E0%B2%F7%FE%B2%E6%FB%F7%FF%E2%FD%B2%F6%F7%B2%F7%E1%E6%E7%F6%FB%FD%B2%F7%FC%B2%F0%FE%FD%E3%E7%F7%E1%B2%F1%FD%E0%E6%FD%E1%B2%EB%B2%F1%FD%FC%B2%F6%F7%E1%F1%F3%FC%E1%FD%E1%B2%E2%F3%E0%F3%B2%F1%FD%FC%F1%F7%FC%E6%E0%F3%E0%E6%F7%B2%FF%F7%F8%FD%E0%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%E7%E6%FD%F7%E4%F3%FE%E7%F3%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%EB%E7%F6%F3%B2%F3%B2%F1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E1%FB%B2%E0%F7%F3%FE%FF%F7%FC%E6%F7%B2%FA%F3%E1%B2%F7%FC%E6%F7%FC%F6%FB%F6%FD%B2%F7%FE%B2%F1%FD%FC%E6%F7%FC%FB%F6%FD%B2%FA%F3%F1%FB%F7%FC%F6%FD%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B2%E1%FD%F0%E0%F7%B2%FE%FD%B2%E3%E7%F7%B2%FA%F3%E1%B2%F7%E1%E6%E7%F6%FB%F3%F6%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%C2%C0%D7%DC%D6%DB%C8%D3%D8%D7%B2%D3%C7%D6%DB%C6%DB%C4%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E1%FB%E1%E6%F7%B2%F7%FC%B2%F7%E1%F1%E7%F1%FA%F3%E0%B2%F5%E0%F3%F0%F3%F1%FB%FD%FC%F7%E1%B2%FD%B2%F7%EA%E2%FE%FB%F1%F3%F1%FB%FD%FC%F7%E1%B2%F7%FC%B2%E4%FD%E8%B2%F3%FE%E6%F3%B2%E2%F3%E0%F3%B2%E0%F7%F4%FD%E0%E8%F3%E0%B2%FE%FD%B2%F3%E2%E0%F7%FC%F6%FB%F6%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%C2%C0%D7%DC%D6%DB%C8%D3%D8%D7%B2%D9%DB%DC%D7%C1%C6%5B%C1%DB%D1%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%7B%F1%FC%FB%F1%F3%B2%E3%E7%F7%B2%E2%F7%E0%FF%FB%E6%F7%B2%E0%F7%E2%F3%E1%F3%E0%B2%FE%FD%B2%F3%E2%E0%F7%FC%F6%FB%F6%FD%B2%F3%B2%E6%E0%F3%E4%7B%E1%B2%F6%F7%FE%B2%F8%E7%F7%F5%FD%BE%B2%FE%F3%B2%F1%E0%F7%F3%E6%FB%E4%FB%F6%F3%F6%B2%FD%B2%FE%F3%B2%FF%F3%FC%FB%E2%E7%FE%F3%F1%FBa%FC%B2%F6%F7%B2%FF%F3%E6%F7%E0%FB%F3%FE%F7%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%DE%D3%DC%DB%D4%DB%D1%D3%D1%DBA%DC%B2%D6%D7%DE%B2%D7%C1%C6%C7%D6%DB%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%FC%E6%F7%E1%B2%F6%F7%B2%F1%FD%FF%F7%FC%E8%F3%E0%B2%F3%B2%F7%E1%E6%E7%F6%FB%F3%E0%BE%B2%F6%F7%F0%F7%E1%B2%FD%E0%F5%F3%FC%FB%E8%F3%E0%B2%FE%FD%E1%B2%FF%F3%E6%F7%E0%FB%F3%FE%F7%E1%BE%B2%E2%FE%F3%FC%FB%F4%FB%F1%F3%E0%B2%F7%FE%B2%E6%FB%F7%FF%E2%FD%B2%EB%B2%F4%FB%F8%F3%E0%E6%F7%B2%FF%F7%E6%F3%E1%B2%E0%F7%F3%FE%FB%E1%E6%F3%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%F1%E6%FB%E4%F3%E6%F7%C6%E0%F3%FC%E1%FE%F3%E6%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%A3%A3%A3%A2%A3%A5%A3%A4%A6%BF%A4%A2%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%E8%F1%F3%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F7%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%E7%FC%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%F1%FD%FC%E1%F7%F5%E7%FB%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%C4%E7%F7%FE%E4%F3%B2%F3%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F3%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F7%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%BE%B2%E2%E7%FE%E1%F7%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1a%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D3%F6%FB%E4%FB%FC%F3%B0%EF%EF</div><div class="adivina-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"Adivina","instructions":"<p>Observe las letras, identifique y rellene las palabras que faltan.</p>","showMinimize":false,"optionsRamdon":false,"showSolution":true,"timeShowSolution":3,"useLives":true,"numberLives":3,"timeQuestion":30,"percentageShow":30,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"wordsGame":[{"word":"SUBRAYADO","definition":"Sirve para resaltar las ideas más importantes de un texto y ayuda a concentrarte mientras lees.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"RESUMEN","definition":"Consiste en escribir con tus propias palabras lo más importante de un texto. Te ayuda a comprender mejor lo que has leído","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"ESQUEMA","definition":"Esta técnica se basa en organizar la información mediantes flechas, colores o jerarquías. Se usa mucho para repasar antes de un examen.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"MAPA MENTAL","definition":"Es un tipo de mapa visual con palabras clave, dibujos y conexiones que representa ideas de forma creativa.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"REGLA MNEMOTÉCNICA","definition":"Sirve para memorizar contenidos usando trucos, palabras o frases que te ayudan a recordar fácilmente.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"MÉTODO POMODORO","definition":"Implica distribuir el tiempo de estudio en bloques cortos y con descansos para concentrarte mejor.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"Autoevaluación","definition":"Ayuda a comprobar si realmente has entendido el contenido haciendo preguntas sobre lo que has estudiado.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"APRENDIZAJE AUDITIVO","definition":"Consiste en escuchar grabaciones o explicaciones en voz alta para reforzar lo aprendido.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"APRENDIZAJE KINESTÉSICO","definition":"Técnica que permite repasar lo aprendido a través del juego, la creatividad o la manipulación de materiales.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35},{"word":"PLANIFICACIÓN DEL ESTUDIO","definition":"Antes de comenzar a estudiar, debes organizar los materiales, planificar el tiempo y fijarte metas realistas.","type":0,"time":1,"x":0,"y":0,"author":"","alt":"","url":"","audio":"","msgHit":"","msgError":"","soundVideo":1,"imageVideo":1,"iVideo":0,"fVideo":0,"silentVideo":0,"tSilentVideo":0,"eText":"","percentageShow":35}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":false,"textFeedBack":"","textAfter":"","caseSensitive":false,"gameMode":1,"feedBack":false,"percentajeFB":100,"version":2,"customMessages":false,"percentajeQuestions":100,"modeBoard":false,"activateTranslate":false,"evaluation":false,"evaluationID":"","id":"2025111017164-60","msgs":{"msgHappen":"Pasar","msgReply":"Responder","msgSubmit":"Enviar","msgEnterCode":"Introduzca el código de acceso","msgErrorCode":"El código de acceso no es correcto","msgGameOver":"¡Fin de la partida!","msgIndicateWord":"Proporcione una palabra o expresión","msgClue":"¡Genial! La pista es:","msgYouHas":"Tiene %1 aciertos y %2 fallos","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgRequiredAccessKey":"Es necesario el código de acceso","msgInformationLooking":"¡Genial! La información que estaba buscando","msgPlayStart":"Pulse aquí para jugar","msgErrors":"Errores","msgMoveOne":"Pasar","msgHits":"Aciertos","msgScore":"Puntuación","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgTime":"Límite de tiempo (mm:ss)","msgLive":"Vida","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNumQuestions":"Número de preguntas","msgNoImage":"Pregunta sin imágenes","msgCool":"¡Bien!","msgLoseT":"Ha perdido 330 puntos","msgLoseLive":"Ha perdido una vida","msgLostLives":"¡Ha perdido todas sus vidas!","mgsAllQuestions":"¡Completadas las preguntas!","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgTryAgain":"Necesita al menos un %s% de respuestas correctas para conseguir la información. Vuelva a intentarlo.","msgWrote":"Escriba la palabra correcta y pulse en Responder. Si duda, pulse en Seguir.","msgNotNetwork":"A este juego sólo se puede jugar con conexión a internet.","msgEndGameScore":"Antes de guardar la puntuación comience la partida.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgQuestion":"Pregunta","msgAnswer":"Responder","msgOnlySaveScore":"¡Sólo puede guardar la puntuación una vez!","msgOnlySave":"Sólo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Sólo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgLoading":"Cargando. Espere, por favor...","msgPoints":"puntos","msgAudio":"Audio","msgCorrect":"Correcto","msgIncorrect":"Incorrecto","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Adivina"}}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5onq87-zcoogv5sj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq87-zcoogv5sj</odePageId>
+      <odeBlockId>block-mnvn41y7-ni9qrhawf</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq87-zcoogv5sj</odePageId>
+          <odeBlockId>block-mnvn41y7-ni9qrhawf</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-vaanrggmp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;"><br />La evaluación en esta Situación de Aprendizaje será <strong>continua, formativa y competencial</strong>, valorando tanto el proceso como los productos finales elaborados por el alumnado.<br />Se prioriza la observación directa, la auto y coevaluación, y el uso de instrumentos variados: rúbricas, listas de cotejo.</p>
+<p style="text-align: justify;">El objetivo es comprobar el desarrollo de las competencias específicas y clave, la aplicación de estrategias de aprendizaje, la autonomía y la capacidad de trabajo cooperativo.<br />Además, la evaluación se realizará de forma inclusiva y accesible, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA).</p>
+<p><strong>PRODUCTOS EVALUABLES</strong>:</p>
+<ul style="list-style-type: disc;">
+<li>Infografía interactiva sobre técnicas de estudio.</li>
+<li>Mural cooperativo sobre la memoria.</li>
+<li>Podcast educativo sobre lo aprendido.</li>
+</ul>
+<p><strong>MOMENTO DE EVALUACIÓN</strong>:</p>
+<ul style="list-style-type: disc;">
+<li>Durante el proceso: observación, participación, actividades intermedias (lluvia de ideas, infografía, mural).</li>
+<li>Final: presentación y valoración del podcast, autoevaluación y juego de repaso.</li>
+</ul>
+<p><strong>INSTRUMENTOS:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Lista de cotejo.</li>
+<li>Rúbrica de productos finales.</li>
+<li>Registro de observación del docente</li>
+</ul>
+<p><strong>LISTA DE COTEJO:</strong></p>
+<table style="width: 709px; border-style: solid; border-color: #000000;" border="SI">
+<thead>
+<tr>
+<th style="width: 505.698px;">Indicadores de logro</th>
+<th style="width: 54.1875px; text-align: center;">Sí</th>
+<th style="width: 38.1354px; text-align: center;">No</th>
+<th style="width: 86.3125px; text-align: center;">En proceso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 505.698px;">Participa activamente en las actividades individuales y grupales.</td>
+<td style="width: 54.1875px; text-align: center;">☐</td>
+<td style="width: 38.1354px; text-align: center;">☐</td>
+<td style="width: 86.3125px; text-align: center;">☐</td>
+</tr>
+<tr>
+<td style="width: 505.698px;">Aporta ideas y respeta las de sus compañeros y compañeras.</td>
+<td style="width: 54.1875px; text-align: center;">☐</td>
+<td style="width: 38.1354px; text-align: center;">☐</td>
+<td style="width: 86.3125px; text-align: center;">☐</td>
+</tr>
+<tr>
+<td style="width: 505.698px;">Identifica diferentes técnicas de estudio y las aplica correctamente.</td>
+<td style="width: 54.1875px; text-align: center;">☐</td>
+<td style="width: 38.1354px; text-align: center;">☐</td>
+<td style="width: 86.3125px; text-align: center;">☐</td>
+</tr>
+<tr>
+<td style="width: 505.698px;">Muestra interés por mejorar sus hábitos de estudio.</td>
+<td style="width: 54.1875px; text-align: center;">☐</td>
+<td style="width: 38.1354px; text-align: center;">☐</td>
+<td style="width: 86.3125px; text-align: center;">☐</td>
+</tr>
+<tr>
+<td style="width: 505.698px;">Utiliza recursos digitales con responsabilidad y creatividad.</td>
+<td style="width: 54.1875px; text-align: center;">☐</td>
+<td style="width: 38.1354px; text-align: center;">☐</td>
+<td style="width: 86.3125px; text-align: center;">☐</td>
+</tr>
+<tr>
+<td style="width: 505.698px;">Colabora en la creación del mural y del podcast cumpliendo su rol en el grupo.</td>
+<td style="width: 54.1875px; text-align: center;">☐</td>
+<td style="width: 38.1354px; text-align: center;">☐</td>
+<td style="width: 86.3125px; text-align: center;">☐</td>
+</tr>
+<tr>
+<td style="width: 505.698px;">Reflexiona sobre su propio aprendizaje y propone mejoras.</td>
+<td style="width: 54.1875px; text-align: center;">☐</td>
+<td style="width: 38.1354px; text-align: center;">☐</td>
+<td style="width: 86.3125px; text-align: center;">☐</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RÚBRICA DE EVALUACIÓN PRODUCTOS FINALES</strong>:</p>
+<table border="SI" style="border-style: solid; border-color: #000000;">
+<thead>
+<tr>
+<th><strong>Criterios / Productos</strong></th>
+<th><strong>Nivel alto (3)</strong></th>
+<th><strong>Nivel medio (2)</strong></th>
+<th><strong>Nivel inicial (1)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Infografía interactiva</strong></td>
+<td style="text-align: justify;">Presenta la información de forma clara, visual y bien organizada. Incluye varias técnicas de estudio con explicaciones correctas y creativas.</td>
+<td style="text-align: justify;">Presenta la información básica sobre las técnicas de estudio con organización adecuada.</td>
+<td style="text-align: justify;">Presenta información incompleta o poco clara; escasa organización o errores.</td>
+</tr>
+<tr>
+<td><strong>Mural cooperativo</strong></td>
+<td style="text-align: justify;">El mural está bien estructurado, con contenido variado y visualmente atractivo. Todos los miembros han participado.</td>
+<td style="text-align: justify;">El mural cumple los objetivos, aunque la participación o presentación podría mejorar.</td>
+<td style="text-align: justify;">El mural presenta errores o poca colaboración grupal.</td>
+</tr>
+<tr>
+<td><strong>Podcast educativo</strong></td>
+<td style="text-align: justify;">Expresión oral fluida, tono adecuado y contenido coherente sobre las técnicas de estudio. Se escucha claramente y muestra reflexión personal.</td>
+<td style="text-align: justify;">Contenido correcto, aunque con algunos fallos en expresión o estructura.</td>
+<td style="text-align: justify;">Explicación confusa, sin preparación previa o con poca relación con el tema.</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Competencia digital y uso de herramientas</strong></td>
+<td style="text-align: justify;">Maneja con autonomía y creatividad las herramientas digitales.</td>
+<td style="text-align: justify;">Utiliza las herramientas con ayuda puntual.</td>
+<td style="text-align: justify;">Necesita ayuda constante para realizar las tareas digitales.</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Trabajo cooperativo y actitud</strong></td>
+<td style="text-align: justify;">Participa activamente, respeta los turnos y colabora en las decisiones del grupo.</td>
+<td style="text-align: justify;">Colabora de forma irregular o poco constante.</td>
+<td style="text-align: justify;">No participa o interrumpe el trabajo del grupo.</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Reflexión y autoevaluación</strong></td>
+<td style="text-align: justify;">Realiza una autoevaluación crítica y propone mejoras.</td>
+<td style="text-align: justify;">Realiza una autoevaluación básica.</td>
+<td style="text-align: justify;">No reflexiona sobre su aprendizaje.</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /><br /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\"><br />La evaluación en esta Situación de Aprendizaje será <strong>continua, formativa y competencial</strong>, valorando tanto el proceso como los productos finales elaborados por el alumnado.<br />Se prioriza la observación directa, la auto y coevaluación, y el uso de instrumentos variados: rúbricas, listas de cotejo.</p>\n<p style=\"text-align: justify;\">El objetivo es comprobar el desarrollo de las competencias específicas y clave, la aplicación de estrategias de aprendizaje, la autonomía y la capacidad de trabajo cooperativo.<br />Además, la evaluación se realizará de forma inclusiva y accesible, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA).</p>\n<p><strong>PRODUCTOS EVALUABLES</strong>:</p>\n<ul style=\"list-style-type: disc;\">\n<li>Infografía interactiva sobre técnicas de estudio.</li>\n<li>Mural cooperativo sobre la memoria.</li>\n<li>Podcast educativo sobre lo aprendido.</li>\n</ul>\n<p><strong>MOMENTO DE EVALUACIÓN</strong>:</p>\n<ul style=\"list-style-type: disc;\">\n<li>Durante el proceso: observación, participación, actividades intermedias (lluvia de ideas, infografía, mural).</li>\n<li>Final: presentación y valoración del podcast, autoevaluación y juego de repaso.</li>\n</ul>\n<p><strong>INSTRUMENTOS:</strong></p>\n<ul style=\"list-style-type: disc;\">\n<li>Lista de cotejo.</li>\n<li>Rúbrica de productos finales.</li>\n<li>Registro de observación del docente</li>\n</ul>\n<p><strong>LISTA DE COTEJO:</strong></p>\n<table style=\"width: 709px; border-style: solid; border-color: #000000;\" border=\"SI\">\n<thead>\n<tr>\n<th style=\"width: 505.698px;\">Indicadores de logro</th>\n<th style=\"width: 54.1875px; text-align: center;\">Sí</th>\n<th style=\"width: 38.1354px; text-align: center;\">No</th>\n<th style=\"width: 86.3125px; text-align: center;\">En proceso</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 505.698px;\">Participa activamente en las actividades individuales y grupales.</td>\n<td style=\"width: 54.1875px; text-align: center;\">☐</td>\n<td style=\"width: 38.1354px; text-align: center;\">☐</td>\n<td style=\"width: 86.3125px; text-align: center;\">☐</td>\n</tr>\n<tr>\n<td style=\"width: 505.698px;\">Aporta ideas y respeta las de sus compañeros y compañeras.</td>\n<td style=\"width: 54.1875px; text-align: center;\">☐</td>\n<td style=\"width: 38.1354px; text-align: center;\">☐</td>\n<td style=\"width: 86.3125px; text-align: center;\">☐</td>\n</tr>\n<tr>\n<td style=\"width: 505.698px;\">Identifica diferentes técnicas de estudio y las aplica correctamente.</td>\n<td style=\"width: 54.1875px; text-align: center;\">☐</td>\n<td style=\"width: 38.1354px; text-align: center;\">☐</td>\n<td style=\"width: 86.3125px; text-align: center;\">☐</td>\n</tr>\n<tr>\n<td style=\"width: 505.698px;\">Muestra interés por mejorar sus hábitos de estudio.</td>\n<td style=\"width: 54.1875px; text-align: center;\">☐</td>\n<td style=\"width: 38.1354px; text-align: center;\">☐</td>\n<td style=\"width: 86.3125px; text-align: center;\">☐</td>\n</tr>\n<tr>\n<td style=\"width: 505.698px;\">Utiliza recursos digitales con responsabilidad y creatividad.</td>\n<td style=\"width: 54.1875px; text-align: center;\">☐</td>\n<td style=\"width: 38.1354px; text-align: center;\">☐</td>\n<td style=\"width: 86.3125px; text-align: center;\">☐</td>\n</tr>\n<tr>\n<td style=\"width: 505.698px;\">Colabora en la creación del mural y del podcast cumpliendo su rol en el grupo.</td>\n<td style=\"width: 54.1875px; text-align: center;\">☐</td>\n<td style=\"width: 38.1354px; text-align: center;\">☐</td>\n<td style=\"width: 86.3125px; text-align: center;\">☐</td>\n</tr>\n<tr>\n<td style=\"width: 505.698px;\">Reflexiona sobre su propio aprendizaje y propone mejoras.</td>\n<td style=\"width: 54.1875px; text-align: center;\">☐</td>\n<td style=\"width: 38.1354px; text-align: center;\">☐</td>\n<td style=\"width: 86.3125px; text-align: center;\">☐</td>\n</tr>\n</tbody>\n</table>\n<p><strong>RÚBRICA DE EVALUACIÓN PRODUCTOS FINALES</strong>:</p>\n<table border=\"SI\" style=\"border-style: solid; border-color: #000000;\">\n<thead>\n<tr>\n<th><strong>Criterios / Productos</strong></th>\n<th><strong>Nivel alto (3)</strong></th>\n<th><strong>Nivel medio (2)</strong></th>\n<th><strong>Nivel inicial (1)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Infografía interactiva</strong></td>\n<td style=\"text-align: justify;\">Presenta la información de forma clara, visual y bien organizada. Incluye varias técnicas de estudio con explicaciones correctas y creativas.</td>\n<td style=\"text-align: justify;\">Presenta la información básica sobre las técnicas de estudio con organización adecuada.</td>\n<td style=\"text-align: justify;\">Presenta información incompleta o poco clara; escasa organización o errores.</td>\n</tr>\n<tr>\n<td><strong>Mural cooperativo</strong></td>\n<td style=\"text-align: justify;\">El mural está bien estructurado, con contenido variado y visualmente atractivo. Todos los miembros han participado.</td>\n<td style=\"text-align: justify;\">El mural cumple los objetivos, aunque la participación o presentación podría mejorar.</td>\n<td style=\"text-align: justify;\">El mural presenta errores o poca colaboración grupal.</td>\n</tr>\n<tr>\n<td><strong>Podcast educativo</strong></td>\n<td style=\"text-align: justify;\">Expresión oral fluida, tono adecuado y contenido coherente sobre las técnicas de estudio. Se escucha claramente y muestra reflexión personal.</td>\n<td style=\"text-align: justify;\">Contenido correcto, aunque con algunos fallos en expresión o estructura.</td>\n<td style=\"text-align: justify;\">Explicación confusa, sin preparación previa o con poca relación con el tema.</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td><strong>Competencia digital y uso de herramientas</strong></td>\n<td style=\"text-align: justify;\">Maneja con autonomía y creatividad las herramientas digitales.</td>\n<td style=\"text-align: justify;\">Utiliza las herramientas con ayuda puntual.</td>\n<td style=\"text-align: justify;\">Necesita ayuda constante para realizar las tareas digitales.</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td><strong>Trabajo cooperativo y actitud</strong></td>\n<td style=\"text-align: justify;\">Participa activamente, respeta los turnos y colabora en las decisiones del grupo.</td>\n<td style=\"text-align: justify;\">Colabora de forma irregular o poco constante.</td>\n<td style=\"text-align: justify;\">No participa o interrumpe el trabajo del grupo.</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td><strong>Reflexión y autoevaluación</strong></td>\n<td style=\"text-align: justify;\">Realiza una autoevaluación crítica y propone mejoras.</td>\n<td style=\"text-align: justify;\">Realiza una autoevaluación básica.</td>\n<td style=\"text-align: justify;\">No reflexiona sobre su aprendizaje.</td>\n</tr>\n</tbody>\n</table>\n<p><br /><br /><br /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5onq88-5x40fzcyg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DUA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq88-5x40fzcyg</odePageId>
+      <odeBlockId>block-mnvn41y7-vfw6dm3tq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq88-5x40fzcyg</odePageId>
+          <odeBlockId>block-mnvn41y7-vfw6dm3tq</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-alo1zik7t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Todas las actividades están diseñadas siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de atender a la diversidad del grupo aula y garantizar la participación de todo el alumnado. Se ofrecen distintas formas de representación, acción y expresión, utilizando recursos visuales, auditivos y digitales que facilitan la comprensión y la implicación activa. Se han organizado agrupamientos flexibles y heterogéneos (trabajo individual, por parejas y en grupo cooperativo) para fomentar la colaboración y el aprendizaje entre iguales. Además, se emplean materiales accesibles y apoyos visuales —como infografías, vídeos, murales y herramientas digitales— que permiten adaptar las tareas a los diferentes ritmos, estilos y necesidades de aprendizaje del alumnado.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Todas las actividades están diseñadas siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de atender a la diversidad del grupo aula y garantizar la participación de todo el alumnado. Se ofrecen distintas formas de representación, acción y expresión, utilizando recursos visuales, auditivos y digitales que facilitan la comprensión y la implicación activa. Se han organizado agrupamientos flexibles y heterogéneos (trabajo individual, por parejas y en grupo cooperativo) para fomentar la colaboración y el aprendizaje entre iguales. Además, se emplean materiales accesibles y apoyos visuales —como infografías, vídeos, murales y herramientas digitales— que permiten adaptar las tareas a los diferentes ritmos, estilos y necesidades de aprendizaje del alumnado.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5onq88-ul844hmhc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCARGAR ESTE EXE</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCARGAR ESTE EXE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCARGAR ESTE EXE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5onq88-ul844hmhc</odePageId>
+      <odeBlockId>block-mnvn41y7-7xn8en79u</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5onq88-ul844hmhc</odePageId>
+          <odeBlockId>block-mnvn41y7-7xn8en79u</odeBlockId>
+          <odeIdeviceId>idevice-mnvn41y7-gn99ccfum</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>SA "APRENDER A APRENDER"</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Esta es una SA orientada al alumnado de 1º de la ESO. Cuya temática son las técnicas de estudio, bajo el título ·Aprender a aprender"</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Verónica López Conejo</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el fichero .elp</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
